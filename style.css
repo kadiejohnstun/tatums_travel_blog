@@ -1,0 +1,16 @@
+*{
+    font-family: Arial;
+}
+h1, h3{
+    font-family: Geneva;
+}
+body{
+    background: linear-gradient(to bottom, white, rgb(248, 8, 216));
+   
+}
+header{
+    color: black;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/59592d5ae4fcb5168c5b510b/1595734038819-NJU0HGK2AZU7JJXZAI7S/PontNeufFull-Print+2-Edit.jpg");
+    background-size: cover;
+}
+/*This is my comment*/
