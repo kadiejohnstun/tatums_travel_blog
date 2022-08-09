@@ -3,7 +3,8 @@
 }
 h1, h3{
     font-family: Geneva;
-}
+        }
+
 body{
     background: linear-gradient(to bottom, white, rgb(248, 8, 216));
    
@@ -11,6 +12,29 @@ body{
 header{
     color: black;
     background-image: url("https://images.squarespace-cdn.com/content/v1/59592d5ae4fcb5168c5b510b/1595734038819-NJU0HGK2AZU7JJXZAI7S/PontNeufFull-Print+2-Edit.jpg");
+    display: block;
     background-size: cover;
+    border-radius: .75em;
+    padding: 5px;
+    box-shadow: 3px 3px grey;
+   
+
 }
+img{
+    display: block;
+    height: 20%;
+    border-color: lightseagreen;
+    border-radius: .75em;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px grey;
+}
+article{
+    border-radius: .75em;
+    padding: 5px
+    box-shadow: 5px 5px grey;
+}
+.subheading{
+    border-bottom: solid;
+}
+
 /*This is my comment*/
